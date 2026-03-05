@@ -12,7 +12,6 @@ The following placeholders will be automatically replaced when creating a new cl
 - `{{WHATSAPP}}` - WhatsApp contact number
 - `{{PHONE}}` - Phone contact number
 - `{{EMAIL}}` - Email contact address
-- `{{ONESIGNAL_ID}}` - OneSignal app ID for push notifications (optional; use `""` if not used)
 
 ## Services Configuration
 

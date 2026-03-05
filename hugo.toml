@@ -9,19 +9,22 @@ languageCode = 'en-tt'
   [[module.mounts]]
     source = "themes/_menus_ttms/content"
     target = "content"
-
 title = '{{SITE_TITLE}}'
 baseURL = 'https://{{CLIENT_NAME}}.ttmenus.com/'
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.parser]
+
+[markup.goldmark]
+
+[markup.goldmark.parser]
       attribute = true
-    [markup.goldmark.renderer]
+
+[markup.goldmark.renderer]
       unsafe = true
 
 [outputFormats]
-  [outputFormats.menuitemsJSON]
+
+[outputFormats.menuitemsJSON]
     mediaType = "application/json"
     baseName = "menu-items"
     isPlainText = true
@@ -38,62 +41,61 @@ baseURL = 'https://{{CLIENT_NAME}}.ttmenus.com/'
   notifyServiceUrl = "https://notify.ttmenus.com"
 
 [params.ads]
-  clientId = "ttms_{{CLIENT_NAME}}"
-  enabled = true
-  apiUrl = "https://ads.ttmenus.com/api/v1"
+    clientId = "ttms_{{CLIENT_NAME}}"
+    enabled = true
+    apiUrl = "https://ads.ttmenus.com/api/v1"
 
 [params.auth]
-  enabled = true
-  apiUrl = "https://auth.ttmenus.com/api/v1"
+    enabled = true
+    apiUrl = "https://auth.ttmenus.com/api/v1"
 
-# Content Management Service Configuration (CMS / Update UI)
 [params.contentManagement]
-  enabled = true
-  apiUrl = "https://cms.ttmenus.com/api"
-  serviceUrl = "https://cms.ttmenus.com"
-  clientId = "ttms_{{CLIENT_NAME}}"
-  # For local development, use:
-  # apiUrl = "http://localhost:8084/api"
-  # serviceUrl = "http://localhost:8084"
+    enabled = true
+    apiUrl = "https://cms.ttmenus.com/api"
+    serviceUrl = "https://cms.ttmenus.com"
+    clientId = "ttms_{{CLIENT_NAME}}"
+    # For local development, use:
+    # apiUrl = "http://localhost:8084/api"
+    # serviceUrl = "http://localhost:8084"
 
 # Notification Service Configuration
 [params.notifications]
-  enabled = true
-  apiUrl = "https://notify.ttmenus.com/api/v1"
-  websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
-  serviceUrl = "https://notify.ttmenus.com"
+    enabled = true
+    apiUrl = "https://notify.ttmenus.com/api/v1"
+    websocketUrl = "wss://notify.ttmenus.com/api/v1/ws/connect"
+    serviceUrl = "https://notify.ttmenus.com"
 
 [params.features]
-  payments = false
-  delivery = false
-  notifications = true
+    payments = false
+    delivery = false
+    notifications = true
 
 [params.orderingsystem]
-  # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
-  enabled = true
-  orderingDisabledMessage = "Ordering is not available for this menu at this time."
-  vat = 0
-  servicecharge = 0
-  hastables = true
-  usephonecall = false
-  whatsapp = {{WHATSAPP}}
-  phone = {{PHONE}}
+    # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
+    enabled = true
+    orderingDisabledMessage = "Ordering is not available for this menu at this time."
+    vat = 0
+    servicecharge = 0
+    hastables = true
+    usephonecall = false
+    whatsapp = {{WHATSAPP}}
+    phone = {{PHONE}}
 
 [params.services]
-  analyticsid = {{ANALYTICS_ID}}
-  notifications = true
-  onesignalid = "{{ONESIGNAL_ID}}"
+    analyticsid = {{ANALYTICS_ID}}
+    notifications = true
 
 [params.social]
-  youtube = ""
-  email = "{{EMAIL}}"
-  phone = {{PHONE}}
-  facebook = ""
-  instagram = ""
-  tiktok = ""
+    youtube = ""
+    email = "{{EMAIL}}"
+    phone = {{PHONE}}
+    facebook = ""
+    instagram = ""
+    tiktok = ""
 
 [privacy]
-  [privacy.instagram]
+
+[privacy.instagram]
     simple = false
     disable = false
 
