@@ -1,4 +1,4 @@
 ---
-title: ""
+title: "Chemis Cream Café Ltd"
 ---
-<p>TTMenus Menu System.</p>
+<p>Digital menu for Chemis Cream Café Ltd. Call/WhatsApp: 766-8067 · @chemiscreamcafeltd</p>
