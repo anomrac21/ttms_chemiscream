@@ -8,6 +8,22 @@ prices:
 tags: ["Main", "Chicken"]
 specials: []
 events: []
+side_categories:
+  - category_name: sides
+    display_name: "Choose your side"
+    config:
+      minimum: 1
+      maximum: 1
+    items:
+      - name: Mashed Potatoes
+        type: Regular
+        price: 0
+      - name: Fries
+        type: Regular
+        price: 0
+      - name: Wedges
+        type: Regular
+        price: 0
 ingredients: ["Chicken breast", "Garlic bechamel", "Parmesan", "Parsley", "Mashed potatoes", "Broccoli"]
 cookingmethods: []
 types: []

@@ -1,6 +1,11 @@
 ---
 title: 10% Off Any Dessert with Purchase
 date: 2026-03-10T00:00:00Z
+images:
+    - image: images/ChemiscreamLunch.png
+recurring: true
+daysofweek:
+    - Monday
 weight: 1
 ---
 

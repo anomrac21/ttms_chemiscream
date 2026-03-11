@@ -8,6 +8,22 @@ prices:
 tags: ["Main", "Steak"]
 specials: []
 events: []
+side_categories:
+  - category_name: sides
+    display_name: "Choose your side"
+    config:
+      minimum: 1
+      maximum: 1
+    items:
+      - name: Mashed Potatoes
+        type: Regular
+        price: 0
+      - name: Fries
+        type: Regular
+        price: 0
+      - name: Wedges
+        type: Regular
+        price: 0
 ingredients: ["10oz Prime Ribeye", "Roasted vegetables", "Garlic mashed potatoes"]
 cookingmethods: ["Grilled"]
 types: []
