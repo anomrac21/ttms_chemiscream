@@ -2,35 +2,34 @@
     /* Chemis Cream brand: teal, orange-yellow, pink/magenta, dark */
     /* Header */
     --header-color: #0d9488;
-    --header-bg-color: #0f172aee;
+    --header-bg-color: #ffffff00;
     --header-icon-color: #fefefe;
     --header-text-color: #fefefe;
     --header-text-shadow-color: #00000080;
-    --header-bordercolor-1: #f472b6;
-    --header-bordercolor-2: #fbbf24;
+    --header-bordercolor-1: #fbbf246e;
     --header-bg-image: none;
 
   /* Hero */
     --hero-bg-image-fg-color: #fef3c7;
-    --hero-bg-color: #0f172a;
+    --hero-bg-color: #14363a;
     --hero-text-color: #ffffff;
 
   /* Main */
-    --main-bg: #0f172a;
+    --main-bg: #14363a;
     --main-bg-color: #fef3c7;
-    --main-text-color: #1e293b;
+    --main-text-color: #ffffff;
 
   /* Menu */
-    --menu-bg-color-1: #0d9488;
-    --menu-bg-color-2: #db277755;
+    --menu-bg-color-1: #3faebf33;
+    --menu-bg-color-2: #cc2067;
     --menu-text-color: #ffffff;
 
   /* Buttons */
-    --button-color1: #0d9488;
-    --button-color2: #0f172a;
+    --button-color1: #3faebf;
+    --button-color2: #143539;
     --button-text-color1: #fefefe;
-    --selected-button-color1: #db2777;
-    --selected-button-color2: #be185d;
-    --selected-button-color3: #fef3c7;
+    --selected-button-color1: #da1c68;
+    --selected-button-color2: #d94758;
+    --selected-button-color3: #f1b041;
     --selected-text-color1: #fff;
 }
