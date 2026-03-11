@@ -1,6 +1,7 @@
 ---
 title: Desserts
-weight: 16
+weight: 10
+icon: https://ct.ttmenus.com/icons/white/icon-dessert.webp
 ---
 
-LN2 gelato, cobblers, churros, cakes and sundaes. Hospitality fee to be added.
+Hospitality fee to be added.

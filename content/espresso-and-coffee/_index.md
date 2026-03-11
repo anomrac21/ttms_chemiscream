@@ -1,6 +1,7 @@
 ---
 title: Espresso & Coffee
-weight: 3
+weight: 11
+icon: https://ct.ttmenus.com/icons/white/icon-coffee.webp
 ---
 
-Artisan espresso, Americano, lattes and more. Hot, iced or blended.
+Artisan espresso, Americano, lattes and more. 

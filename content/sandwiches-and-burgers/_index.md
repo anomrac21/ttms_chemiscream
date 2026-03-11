@@ -1,6 +1,7 @@
 ---
 title: Sandwiches & Burgers
-weight: 14
+weight: 4
+icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
 ---
 
-Sides: Fries, Wedges, Sweet Potato Fries. Hospitality fee to be added.
+Hospitality fee to be added.

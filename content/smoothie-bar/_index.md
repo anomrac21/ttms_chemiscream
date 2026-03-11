@@ -1,6 +1,7 @@
 ---
 title: Smoothie Bar
-weight: 6
+weight: 14
+icon: https://ct.ttmenus.com/icons/white/icon-smoothie.webp
 ---
 
-Peach, Mango, Guava, Blueberry, Strawberry, Raspberry $45 · Passion fruit $45 · Berry Blast $55 · Breakfast Smoothie $55
+

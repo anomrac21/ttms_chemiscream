@@ -1,6 +1,7 @@
 ---
 title: Pasta
-weight: 15
+weight: 7
+icon: https://ct.ttmenus.com/icons/white/icon-pasta.webp
 ---
 
-Alfredo, Pesto, Seafood Arrabbiata and Equation. Hospitality fee to be added.
+Hospitality fee to be added.

@@ -1,6 +1,7 @@
 ---
 title: Mains
-weight: 13
+weight: 6
+icon: https://ct.ttmenus.com/icons/food/icon-platter.webp
 ---
 
 Substitute any ONE side on our entrées with: Mashed Potatoes, Fries or Wedges. 

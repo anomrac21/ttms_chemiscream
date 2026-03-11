@@ -8,6 +8,17 @@ prices:
 tags: ["Milkshake"]
 specials: []
 events: []
+additions:
+  - name: Oat Milk
+    price: 10
+  - name: Almond Milk
+    price: 10
+  - name: Coconut Milk
+    price: 15
+  - name: Tea Bag
+    price: 5
+  - name: Coffee Flavors
+    price: 6
 ingredients: []
 cookingmethods: []
 types: []
