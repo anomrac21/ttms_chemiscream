@@ -2,16 +2,19 @@
 title: CC Signature Affogato
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: Hot
+  - variable1: "-"
+    variable2: Hot
     price: 65
-  - size: "-"
-    flavour: Iced
+  - variable1: "-"
+    variable2: Iced
     price: 65
-  - size: "-"
-    flavour: Blended
+  - variable1: "-"
+    variable2: Blended
     price: 65
-tags: ["Coffee", "Dessert", "Ice Cream"]
+tags:
+  - Coffee
+  - Dessert
+  - Ice Cream
 specials: []
 events: []
 ingredients: ["Espresso", "Ice Cream", "Pistachios", "Chocolate"]

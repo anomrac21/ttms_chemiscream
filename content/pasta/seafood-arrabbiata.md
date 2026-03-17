@@ -2,10 +2,12 @@
 title: Seafood Arrabbiata
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 170
-tags: ["Pasta", "Seafood"]
+tags:
+  - Pasta
+  - Seafood
 specials: []
 events: []
 ingredients: ["White fish", "Mussels", "Shrimp", "Marinara", "Herbs", "Spaghetti", "Parmesan"]

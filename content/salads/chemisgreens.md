@@ -2,16 +2,18 @@
 title: ChemisGreens
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "Plain"
-    flavour: "-"
+  - variable1: "Plain"
+    variable2: "-"
     price: 75
-  - size: "Chicken"
-    flavour: "-"
+  - variable1: "Chicken"
+    variable2: "-"
     price: 90
-  - size: "Grilled Shrimp"
-    flavour: "-"
+  - variable1: "Grilled Shrimp"
+    variable2: "-"
     price: 110
-tags: ["Salad", "Breakfast"]
+tags:
+  - Salad
+  - Breakfast
 specials: []
 events: []
 ingredients: ["Greens", "Eggs", "Cucumbers", "Tomatoes", "Purple onions", "Bacon", "Yogurt dressing"]

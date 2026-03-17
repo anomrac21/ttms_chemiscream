@@ -2,10 +2,14 @@
 title: Asian Lamb Bowl
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
-tags: ["Main", "Lunch", "Bowl", "Asian"]
+tags:
+  - Main
+  - Lunch
+  - Bowl
+  - Asian
 specials: []
 events: []
 ingredients: ["Lamb", "Jasmine Rice", "Broccoli"]

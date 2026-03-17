@@ -2,10 +2,14 @@
 title: Grilled Chicken Sandwich and Wedges
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
-tags: ["Main", "Lunch", "Sandwich", "Chicken"]
+tags:
+  - Main
+  - Lunch
+  - Sandwich
+  - Chicken
 specials: []
 events: []
 ingredients: ["Chicken", "Wedges"]

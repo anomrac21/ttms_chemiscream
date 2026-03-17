@@ -2,13 +2,15 @@
 title: Matcha Tea
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: Hot
+  - variable1: "-"
+    variable2: Hot
     price: 50
-  - size: "-"
-    flavour: Iced
+  - variable1: "-"
+    variable2: Iced
     price: 50
-tags: ["Tea", "Matcha"]
+tags:
+  - Tea
+  - Matcha
 specials: []
 events: []
 ingredients: []

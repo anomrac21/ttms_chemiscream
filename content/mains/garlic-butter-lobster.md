@@ -2,10 +2,12 @@
 title: Garlic Butter Lobster
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 285
-tags: ["Main", "Seafood"]
+tags:
+  - Main
+  - Seafood
 specials: []
 events: []
 side_categories:

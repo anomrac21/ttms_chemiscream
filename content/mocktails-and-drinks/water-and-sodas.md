@@ -2,25 +2,26 @@
 title: Water & Sodas
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "Water"
-    flavour: "-"
+  - variable1: "Water"
+    variable2: "-"
     price: 11
-  - size: "Diet Coke"
-    flavour: "-"
+  - variable1: "Diet Coke"
+    variable2: "-"
     price: 16
-  - size: "Sprite"
-    flavour: "-"
+  - variable1: "Sprite"
+    variable2: "-"
     price: 15
-  - size: "Coca-Cola"
-    flavour: "-"
+  - variable1: "Coca-Cola"
+    variable2: "-"
     price: 15
-  - size: "Ginger Ale"
-    flavour: "-"
+  - variable1: "Ginger Ale"
+    variable2: "-"
     price: 16
-  - size: "LLB"
-    flavour: "-"
+  - variable1: "LLB"
+    variable2: "-"
     price: 16
-tags: ["Drink"]
+tags:
+  - Drink
 specials: []
 events: []
 ingredients: []

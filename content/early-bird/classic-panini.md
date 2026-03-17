@@ -2,28 +2,30 @@
 title: Classic Panini
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "Ham and Eggs"
-    flavour: "-"
+  - variable1: "Ham and Eggs"
+    variable2: "-"
     price: 70
-  - size: "Grilled Chicken"
-    flavour: "-"
+  - variable1: "Grilled Chicken"
+    variable2: "-"
     price: 90
-  - size: "Chicken Tenders"
-    flavour: "-"
+  - variable1: "Chicken Tenders"
+    variable2: "-"
     price: 90
-  - size: "Shrimp"
-    flavour: "-"
+  - variable1: "Shrimp"
+    variable2: "-"
     price: 110
-  - size: "Steak"
-    flavour: "-"
+  - variable1: "Steak"
+    variable2: "-"
     price: 110
-  - size: "Veggie"
-    flavour: "-"
+  - variable1: "Veggie"
+    variable2: "-"
     price: 70
-  - size: "Hashbrown"
-    flavour: "-"
+  - variable1: "Hashbrown"
+    variable2: "-"
     price: 70
-tags: ["Breakfast", "Panini"]
+tags:
+  - Breakfast
+  - Panini
 specials: []
 events: []
 additions:

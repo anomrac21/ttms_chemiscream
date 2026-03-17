@@ -2,10 +2,13 @@
 title: Chocolate Chip Pancake
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
-tags: ["Kids", "Breakfast", "Pancake"]
+tags:
+  - Kids
+  - Breakfast
+  - Pancake
 specials: []
 events: []
 ingredients: ["Pancake", "Chocolate chips", "Chicken sausage", "Fruits", "Maple butter"]

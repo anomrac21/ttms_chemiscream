@@ -2,16 +2,18 @@
 title: S'mores Hot Chocolate
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: Hot
+  - variable1: "-"
+    variable2: Hot
     price: 55
-  - size: "-"
-    flavour: Iced
+  - variable1: "-"
+    variable2: Iced
     price: 55
-  - size: "-"
-    flavour: Blended
+  - variable1: "-"
+    variable2: Blended
     price: 55
-tags: ["Hot Chocolate", "S'mores"]
+tags:
+  - Hot Chocolate
+  - S'mores
 specials: []
 events: []
 ingredients: []

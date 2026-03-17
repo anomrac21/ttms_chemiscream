@@ -2,16 +2,19 @@
 title: Chicken / Beef / Mushroom Alfredo
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: Chicken
+  - variable1: "-"
+    variable2: Chicken
     price: 70
-  - size: "-"
-    flavour: Beef
+  - variable1: "-"
+    variable2: Beef
     price: 70
-  - size: "-"
-    flavour: Mushroom
+  - variable1: "-"
+    variable2: Mushroom
     price: 70
-tags: ["Main", "Lunch", "Pasta"]
+tags:
+  - Main
+  - Lunch
+  - Pasta
 specials: []
 events: []
 ingredients: ["Chicken", "Beef", "Mushroom", "Alfredo Sauce", "Pasta"]

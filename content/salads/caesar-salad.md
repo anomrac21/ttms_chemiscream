@@ -2,16 +2,18 @@
 title: Caesar Salad
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "Plain"
-    flavour: "-"
+  - variable1: "Plain"
+    variable2: "-"
     price: 70
-  - size: "Chicken"
-    flavour: "-"
+  - variable1: "Chicken"
+    variable2: "-"
     price: 85
-  - size: "Grilled Shrimp"
-    flavour: "-"
+  - variable1: "Grilled Shrimp"
+    variable2: "-"
     price: 95
-tags: ["Salad", "Caesar"]
+tags:
+  - Salad
+  - Caesar
 specials: []
 events: []
 ingredients: ["Romaine", "Croutons", "Parmesan", "Creamy dressing"]

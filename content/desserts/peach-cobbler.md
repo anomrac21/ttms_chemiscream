@@ -2,10 +2,12 @@
 title: Peach Cobbler
 date: 2026-03-10T00:00:00Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 70
-tags: ["Dessert", "Cobbler"]
+tags:
+  - Dessert
+  - Cobbler
 specials: []
 events: []
 ingredients: ["Peach jam", "Butter crumbled pastry"]
