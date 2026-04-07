@@ -82,7 +82,7 @@ baseURL = 'https://chemiscream.ttmenus.com/'
     phone = 18687668067
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 24
     notifications = true
 
 [params.social]
