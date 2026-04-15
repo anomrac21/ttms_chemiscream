@@ -1,6 +1,6 @@
 ---
 title: Mocktails & Drinks
-weight: 15
+weight: 22
 icon: https://ct.ttmenus.com/icons/food/icon-drinks.webp
 ---
 

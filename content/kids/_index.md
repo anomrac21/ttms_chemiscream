@@ -1,6 +1,6 @@
 ---
 title: Let's Start With Kids
-weight: 8
+weight: 21
 icon: https://ct.ttmenus.com/icons/food/icon-combo.webp
 ---
 

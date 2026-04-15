@@ -1,7 +1,7 @@
 ---
 title: Desserts
-weight: 10
+weight: 20
 icon: https://ct.ttmenus.com/icons/white/icon-dessert.webp
 ---
 
-Hospitality fee to be added.
+LN2 gelato, cakes, sundaes and more. Hospitality fee to be added.

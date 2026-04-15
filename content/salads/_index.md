@@ -1,6 +1,6 @@
 ---
 title: Salads
-weight: 9
+weight: 19
 icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
 ---
 

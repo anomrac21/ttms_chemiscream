@@ -1,6 +1,6 @@
 ---
 title: Lunch Menu
-weight: 3
+weight: 9
 icon: https://ct.ttmenus.com/icons/food/icon-trailblazers.webp
 ---
 

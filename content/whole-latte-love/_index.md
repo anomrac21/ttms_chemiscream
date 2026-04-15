@@ -1,6 +1,6 @@
 ---
 title: Whole Latte Love
-weight: 11
+weight: 3
 icon: https://ct.ttmenus.com/icons/white/icon-coffee.webp
 ---
 

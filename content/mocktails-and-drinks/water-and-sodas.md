@@ -30,4 +30,6 @@ types: []
 weight: 13
 ---
 
-Water $11 · Diet Coke $16 · Sprite $15 · Coca-Cola $15 · Ginger Ale $16 · LLB $16
+**Water** — $11
+
+**Sodas** — Diet Coke $16 · Sprite $15 · Coca-Cola $15 · Ginger Ale $16 · LLB $16

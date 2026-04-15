@@ -1,6 +1,6 @@
 ---
 title: Pasta
-weight: 7
+weight: 18
 icon: https://ct.ttmenus.com/icons/white/icon-pasta.webp
 ---
 
