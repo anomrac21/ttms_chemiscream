@@ -1,7 +1,7 @@
 ---
 title: Appetizers
 weight: 8
-icon: https://ct.ttmenus.com/icons/food/icon-sides.webp
+icon: https://ct.ttmenus.com/icons/food/icon-wing.webp
 ---
 
 **Mozzarella sticks sauces:** Teriyaki Sesame, Honey Garlic, Buffalo, Sweet Chili, Parmesan Oregano.
