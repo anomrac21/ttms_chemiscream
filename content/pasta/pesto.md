@@ -14,9 +14,6 @@ prices:
   - variable1: "Salmon"
     variable2: "-"
     price: 160
-  - variable1: "Steak"
-    variable2: "-"
-    price: 150
 tags:
   - Pasta
   - Pesto
