@@ -1,7 +1,9 @@
 ---
 title: Entrées
 weight: 17
-icon: https://ct.ttmenus.com/icons/food/icon-platter.webp
+icon: images/entrees.webp
+images:
+    primary: images/entrees.webp
 ---
 
 Substitute any ONE side on our entrées with the following: Mashed Potatoes, Fries or Wedges.

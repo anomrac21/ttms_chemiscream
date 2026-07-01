@@ -1,0 +1,5 @@
+# Chemis Cream Café: magenta fill, cream border
+
+fill: "#da1c68"
+border: "#fef3c7"
+border_width: 2

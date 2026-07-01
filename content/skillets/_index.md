@@ -1,7 +1,9 @@
 ---
 title: Skillets
 weight: 16
-icon: https://ct.ttmenus.com/icons/food/icon-trailblazers.webp
+icon: images/skillets.webp
+images:
+    primary: images/skillets.webp
 ---
 
 Loaded skillets. Hospitality fee to be added.

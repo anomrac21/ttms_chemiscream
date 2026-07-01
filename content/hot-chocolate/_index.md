@@ -1,7 +1,9 @@
 ---
 title: Hot Chocolate
 weight: 5
-icon: https://ct.ttmenus.com/icons/food/icon-chocolate.webp
+icon: images/hot-chocolate.webp
+images:
+    primary: images/hot-chocolate.webp
 ---
 
 Warm classics.

@@ -1,7 +1,9 @@
 ---
 title: Let's Start With Kids
 weight: 21
-icon: https://ct.ttmenus.com/icons/food/icon-combo.webp
+icon: images/kids.webp
+images:
+    primary: images/kids.webp
 ---
 
 ChemisKids menu.

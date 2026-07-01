@@ -1,0 +1,26 @@
+Section photos:
+- hero.webp — Chemis Cream (client-owned, from ChemiscreamLunch.png)
+- lunch-menu.webp — Chemis Cream (client-owned, from ChemiscreamLunch.png)
+- promotions.webp — Pexels #2233348
+- espresso-equations.webp — Pexels #302899
+- whole-latte-love.webp — Pexels #654642
+- signature.webp — Pexels #1640777
+- hot-chocolate.webp — Pexels #848612
+- floral-teas.webp — Pexels #1132558
+- smoothie-bar.webp — Pexels #376464
+- appetizers.webp — Pexels #2338407
+- rise-and-shine.webp — Pexels #1028737
+- engineer-your-own-formula.webp — Pexels #1109198
+- early-bird.webp — Pexels #1640777
+- omelettes.webp — Pexels #1095550
+- paninis.webp — Pexels #1630757
+- sandwiches-and-burgers.webp — Pexels #769289
+- skillets.webp — Pexels #691114
+- entrees.webp — Pexels #958545
+- pasta.webp — Pexels #2097090
+- salads.webp — Pexels #1279330
+- desserts.webp — Pexels #2089718
+- kids.webp — Pexels #699953
+- mocktails-and-drinks.webp — Pexels #1267325
+- slideshow-coffee.webp — Pexels #654642
+- slideshow-dessert.webp — Pexels #2089718

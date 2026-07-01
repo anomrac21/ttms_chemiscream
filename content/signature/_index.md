@@ -1,7 +1,9 @@
 ---
 title: Signature
 weight: 4
-icon: https://ct.ttmenus.com/icons/white/icon-coffee.webp
+icon: images/signature.webp
+images:
+    primary: images/signature.webp
 ---
 
 House favorites.

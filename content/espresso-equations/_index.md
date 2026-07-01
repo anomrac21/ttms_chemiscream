@@ -1,7 +1,9 @@
 ---
 title: Espresso Equations
 weight: 2
-icon: https://ct.ttmenus.com/icons/white/icon-coffee.webp
+icon: images/espresso-equations.webp
+images:
+    primary: images/espresso-equations.webp
 ---
 
 Espresso classics.

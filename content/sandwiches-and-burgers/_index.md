@@ -1,7 +1,9 @@
 ---
 title: Sandwiches & Burgers
 weight: 15
-icon: https://ct.ttmenus.com/icons/food/icon-burger.webp
+icon: images/sandwiches-and-burgers.webp
+images:
+    primary: images/sandwiches-and-burgers.webp
 ---
 
 Hospitality fee to be added.

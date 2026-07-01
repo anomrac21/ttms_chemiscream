@@ -1,7 +1,9 @@
 ---
 title: Salads
 weight: 19
-icon: https://ct.ttmenus.com/icons/food/icon-salads.webp
+icon: images/salads.webp
+images:
+    primary: images/salads.webp
 ---
 
 Caesar Salad and ChemisGreens. Add protein: Chicken or Grilled Shrimp.

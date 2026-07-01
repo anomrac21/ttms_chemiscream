@@ -1,7 +1,9 @@
 ---
 title: Smoothie Bar
 weight: 7
-icon: https://ct.ttmenus.com/icons/white/icon-smoothie.webp
+icon: images/smoothie-bar.webp
+images:
+    primary: images/smoothie-bar.webp
 ---
 
 Smoothies and milkshakes.

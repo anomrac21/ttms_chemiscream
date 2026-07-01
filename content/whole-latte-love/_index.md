@@ -1,7 +1,9 @@
 ---
 title: Whole Latte Love
 weight: 3
-icon: https://ct.ttmenus.com/icons/food/icon-coffee2.webp
+icon: images/whole-latte-love.webp
+images:
+    primary: images/whole-latte-love.webp
 ---
 
 Hot, Iced or Blended. 12oz | $35 · 16oz | $45
