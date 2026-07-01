@@ -11,6 +11,7 @@ languageCode = 'en-tt'
     target = "content"
 title = 'Chemis Cream'
 baseURL = 'https://chemiscream.ttmenus.com/'
+enableRobotsTXT = true
 
 [markup]
 
@@ -36,6 +37,9 @@ baseURL = 'https://chemiscream.ttmenus.com/'
   page = ["HTML", "JSON"]
 
 [params]
+  # Subscription tier: free | tier1 | tier1_4mo | tier2 (exported in /index.json for hub Account)
+  tier = "tier1"
+  description = "Chemis Cream — ice cream, desserts and treats. View our menu and order online."
   authServiceUrl = "https://auth.ttmenus.com"
   adsServiceUrl = "https://ads.ttmenus.com"
   notifyServiceUrl = "https://notify.ttmenus.com"
@@ -58,6 +62,24 @@ baseURL = 'https://chemiscream.ttmenus.com/'
     # apiUrl = "http://localhost:8084/api"
     # serviceUrl = "http://localhost:8084"
 
+# Dashboard update-ui still reads site.Params.content.*
+[params.content]
+    enabled = true
+    apiUrl = "https://cms.ttmenus.com/api"
+    clientId = "ttms_chemiscream"
+
+# Thumbor — on-demand resized images for dashboard previews
+[params.thumbor]
+    enabled = true
+    url = "https://thumbor.ttmenus.com"
+    sourceBaseUrl = "https://chemiscream.ttmenus.com"
+    menuImagesUseThumbor = true
+
+# Menu Image Service - user-submitted images with admin approval
+[params.menuImageService]
+    enabled = true
+    apiUrl = "https://menu-images.ttmenus.com/api/v1"
+
 # Notification Service Configuration
 [params.notifications]
     enabled = true
@@ -66,10 +88,27 @@ baseURL = 'https://chemiscream.ttmenus.com/'
     serviceUrl = "https://notify.ttmenus.com"
   clientDomain = "chemiscream.ttmenus.com"
 
+# Power-up flags surfaced in /index.json → TT Menus hub Account venue details
 [params.features]
     payments = false
     delivery = false
     notifications = true
+    analytics_access = true
+    featured = true
+    exclusive_ads = false
+    no_competitor_ads = false
+    unmetered_traffic = false
+
+# POS: enabled + provider drive runtime (head.html) and hub Account (index.json features.pos / pos_provider)
+[params.posintegration]
+    enabled = false
+    provider = ""
+    api_url = ""
+    access_token = ""
+    store_id = ""
+    sync_menu = false
+    auto_process_orders = false
+    fallback_to_whatsapp = true
 
 [params.orderingsystem]
     # Set to false to disable placing orders (cart still works; user gets message and order is cancelled)
@@ -81,6 +120,14 @@ baseURL = 'https://chemiscream.ttmenus.com/'
     usephonecall = false
     whatsapp = 18687668067
     phone = 18687668067
+
+# Payment Service — menu checkout (enable when client is onboarded to pay subdomain)
+[params.paymentService]
+    enabled = false
+    apiUrl = "https://pay.chemiscream.ttmenus.com"
+    clientId = "ttms_chemiscream"
+    currency = "TTD"
+    provider = "wipay"
 
 [params.services]
     analyticsid = 24
